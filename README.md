@@ -1,6 +1,6 @@
-# board_computer_v2.2
+# board_computer_v2.3
 
-BC v2.1
+BC v2.3
 
 States:
   1. BOOTING UP
